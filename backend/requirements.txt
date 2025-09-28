@@ -1,0 +1,7 @@
+Flask
+mysql-connector-python
+Flask-CORS
+bcrypt
+pandas
+scikit-learn==1.6.1
+joblib
